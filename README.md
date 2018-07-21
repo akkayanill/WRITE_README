@@ -43,8 +43,17 @@ _To make it Italic_
 **Usage** : "** To make it Bold and _italic_**"
 #
 
-
 #
+
+
+# Link 
+
+Go to my page  [My Github profile](https://github.com/mkeshnoda)
+###### Symbol : " [What you wanna show] (The link) "
+**Usage** : "Go to my page  [ My Github profile ] (https://github.com/mkeshnoda )"
+#
+
+
 
 #  Quoting Texts
 
@@ -66,12 +75,18 @@ git push
 ```
 #
 
-# Link 
+# List
+- George Washington
+- John Adams
+- Thomas Jefferson
 
-Go to my page  [My Github profile](https://github.com/mkeshnoda)
-###### Symbol : " [What you wanna show] (The link) "
-**Usage** : "Go to my page  [ My Github profile ] (https://github.com/mkeshnoda )"
-#
+### OR
+
+* George Washington
+* John Adams
+* Thomas Jefferson
+
+###### Symbol : " - George Washington or * George Washington "
 
 
 
